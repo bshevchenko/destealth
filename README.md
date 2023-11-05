@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# DeezStealth Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Smart contracts and tests for https://github.com/web3senior/DeezStealth
 
 Try running some of the following tasks:
 
