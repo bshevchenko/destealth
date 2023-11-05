@@ -1,0 +1,9 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@truffle/dashboard-hardhat-plugin": "^0.2.15",
+    "@types/elliptic": "^6.4.16",
+    "hardhat": "^2.18.3"
+  }
+}
